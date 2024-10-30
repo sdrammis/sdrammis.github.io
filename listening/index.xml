@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Listenings on Sabrina Drammis</title>
-    <link>https://sdrammis.github.io/listening/</link>
+    <link>http://localhost:1313/listening/</link>
     <description>Recent content in Listenings on Sabrina Drammis</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Mon, 03 Feb 2020 16:05:50 -0800</lastBuildDate>
-    <atom:link href="https://sdrammis.github.io/listening/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/listening/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2020</title>
-      <link>https://sdrammis.github.io/listening/2020/</link>
+      <link>http://localhost:1313/listening/2020/</link>
       <pubDate>Mon, 03 Feb 2020 16:05:50 -0800</pubDate>
-      <guid>https://sdrammis.github.io/listening/2020/</guid>
-      <description>Zach Bush, MD On A Pandemic Of Possibility; The Rich Roll Podcast</description>
+      <guid>http://localhost:1313/listening/2020/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Zach Bush, MD On A Pandemic Of Possibility&lt;/em&gt;; The Rich Roll Podcast&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prior Notables</title>
-      <link>https://sdrammis.github.io/listening/prior/</link>
+      <link>http://localhost:1313/listening/prior/</link>
       <pubDate>Mon, 03 Feb 2020 16:05:50 -0800</pubDate>
-      <guid>https://sdrammis.github.io/listening/prior/</guid>
-      <description>GMO Food &amp;amp; Soil Health with Dr. Zach Bush; The Plant Proof Podcast&#xA;Averting the Tsunami of Alzheimer&amp;rsquo;s; The Brain Health &amp;amp; Beyond Podcast</description>
+      <guid>http://localhost:1313/listening/prior/</guid>
+      <description>&lt;p&gt;&lt;em&gt;GMO Food &amp;amp; Soil Health with Dr. Zach Bush&lt;/em&gt;; The Plant Proof Podcast&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Averting the Tsunami of Alzheimer&amp;rsquo;s&lt;/em&gt;; The Brain Health &amp;amp; Beyond Podcast&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

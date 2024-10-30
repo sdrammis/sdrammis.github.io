@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Readings on Sabrina Drammis</title>
-    <link>https://sdrammis.github.io/reading/</link>
+    <link>http://localhost:1313/reading/</link>
     <description>Recent content in Readings on Sabrina Drammis</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Mon, 03 Feb 2020 16:05:50 -0800</lastBuildDate>
-    <atom:link href="https://sdrammis.github.io/reading/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2020</title>
-      <link>https://sdrammis.github.io/reading/2020/</link>
+      <link>http://localhost:1313/reading/2020/</link>
       <pubDate>Mon, 03 Feb 2020 16:05:50 -0800</pubDate>
-      <guid>https://sdrammis.github.io/reading/2020/</guid>
-      <description>Fiber Fuled; Will Bulsiewicz MD</description>
+      <guid>http://localhost:1313/reading/2020/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Fiber Fuled&lt;/em&gt;; Will Bulsiewicz MD&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prior Notables</title>
-      <link>https://sdrammis.github.io/reading/prior/</link>
+      <link>http://localhost:1313/reading/prior/</link>
       <pubDate>Mon, 03 Feb 2020 16:05:50 -0800</pubDate>
-      <guid>https://sdrammis.github.io/reading/prior/</guid>
-      <description>How Not to Die; by Michael Greger MD&#xA;The Alchemist; by Paulo Coelho</description>
+      <guid>http://localhost:1313/reading/prior/</guid>
+      <description>&lt;p&gt;&lt;em&gt;How Not to Die&lt;/em&gt;; by Michael Greger MD&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;The Alchemist&lt;/em&gt;; by Paulo Coelho&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
